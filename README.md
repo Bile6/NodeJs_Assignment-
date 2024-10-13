@@ -1,6 +1,4 @@
 ﻿# NodeJs_Assignment-
-# Assignment: Calculate the Total Target Excluding Fridays
-
 ## Introduction
 This function is designed to calculate the total target for a given period, excluding Fridays, which are considered non-working days. The function provides a detailed breakdown of working days per month and calculates a proportionate monthly target based on the total annual target.
 
